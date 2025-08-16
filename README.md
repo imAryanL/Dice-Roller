@@ -3,6 +3,8 @@
 ## Description
 A simple web application that allows users to roll a specified number of dice and displays the results both as text and images.
 
+![diceroller](https://github.com/user-attachments/assets/b66251c7-7fb1-4c60-b861-36d65fe354df)
+
 ## Features
 - Roll multiple dice at once
 - Display the values of the rolled dice
@@ -73,5 +75,4 @@ function rollDice() {
 ```
 <br>
 
-![diceroller](https://github.com/user-attachments/assets/b66251c7-7fb1-4c60-b861-36d65fe354df)
 
